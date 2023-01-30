@@ -8,6 +8,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+val kuzma = developer {
+  
+}
 <!--
 **KuzmaIvanov/KuzmaIvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
