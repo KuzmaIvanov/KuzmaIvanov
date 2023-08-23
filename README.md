@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Kuzma. 
-#### I am a student of Kazan Federal University. My major is applied mathematics and informatics. I love to code and here you can see my steps of becoming an awesome programmer. Now I'm actively learning Android SDK and things related to it. Welcome!
+#### I am a student of Kazan Federal University and doing my masters degree. My major is applied mathematics and informatics. I love to code and here you can see my steps of becoming an awesome programmer. Now I'm actively learning Android SDK and things related to it. Welcome!
 
 ### Programming stuff I use:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
