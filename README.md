@@ -12,7 +12,7 @@
   val kuzma = developer {
     about {
       name = "Kuzma"
-      age = 21
+      age = 22
     }
     links {
       telegram = "@kuzma_nxrv"
